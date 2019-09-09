@@ -1,0 +1,68 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/home/paulap/workspace/maisreceita/MyCookbook/back-end/app/models/application_record.rb": [
+        1,
+        1,
+        null
+      ],
+      "/home/paulap/workspace/maisreceita/MyCookbook/back-end/app/models/recipe.rb": [
+        1,
+        1,
+        null
+      ],
+      "/home/paulap/workspace/maisreceita/MyCookbook/back-end/app/controllers/application_controller.rb": [
+        1,
+        null
+      ],
+      "/home/paulap/workspace/maisreceita/MyCookbook/back-end/app/controllers/api/v1/recipes_controller.rb": [
+        1,
+        1,
+        null,
+        1,
+        2,
+        null,
+        null,
+        1,
+        2,
+        2,
+        1,
+        null,
+        1,
+        null,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        2,
+        2,
+        null,
+        0,
+        null,
+        null,
+        null,
+        1,
+        null,
+        1,
+        6,
+        null,
+        null,
+        1,
+        null,
+        null,
+        1,
+        4,
+        null,
+        null
+      ],
+      "/home/paulap/workspace/maisreceita/MyCookbook/back-end/app/controllers/api/v1/api_controller.rb": [
+        1,
+        null
+      ]
+    },
+    "timestamp": 1567993628
+  }
+}
