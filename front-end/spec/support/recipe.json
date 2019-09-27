@@ -1,0 +1,8 @@
+{
+"id": 1,
+"name":"Brigadeiro",
+"recipe_type":"Sobremesa",
+"difficulty":"Fácil",
+"cook_time": 30,
+"ingredients":"Leite condensado, manteiga e chocolate em pó" 
+}

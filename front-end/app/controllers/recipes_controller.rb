@@ -1,8 +1,6 @@
 class RecipesController < ApplicationController
-
   def show
-    response = Faraday.get 'http://localhost:3000/api/v1/1'
-    render json: response, status: :ok
+    @recipe ||= Recipe.find(1)
   end
 
   def new
